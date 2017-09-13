@@ -1,8 +1,8 @@
 ---
-summary: 'Write up the reasons why your final project demonstrates everything learned this term.'
-time: '20 minutes'
-deliverables: '3–5 sentences'
-submit: 'https://algonquin.instructure.com/courses/501960/assignments/5002595'
+summary: "Write up the reasons why your final project demonstrates everything learned this term."
+time: "20 minutes"
+deliverables: "3–5 sentences"
+submit: "https://algonquin.instructure.com/courses/847182/assignments/7464421"
 ---
 
 # Request for grade

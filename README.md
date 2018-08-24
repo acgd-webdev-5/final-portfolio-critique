@@ -23,4 +23,4 @@ The written explanation should be a list of things we learned this term that you
 
 ## Hand in
 
-Submit your paragraph to the final project Canvas assignment. There’s a textfield you can paste into.
+Submit your paragraph to the final project assignment online. There’s a textfield you can paste into.

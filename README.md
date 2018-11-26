@@ -1,5 +1,5 @@
 ---
-summary: 'Get critiques from at least 3 peers & the teacher and determine your grade.'
+summary: 'Finalize your portfolio by filling out the rubric and writing a rationale for yourself.'
 time: '1 hour'
 deliverables: 'Working website'
 ---
